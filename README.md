@@ -1,66 +1,128 @@
 # Ex.No.10
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
-## Reg. No.
+## Date: 03-09-26
+## Reg. No. 212224040089
 
-## Aim:
-To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
+## Aim
 
-## Procedure:
-1.	Introduction to Prompt Patterns: Begin by understanding the following prompt patterns:
-○	Query Decomposition: Breaking down complex queries into smaller, actionable parts.
-○	Decision Making: Asking the model to choose between options or directions.
-○	Answer Engineering: Refining outputs by giving detailed instructions on how to structure or format the answer.
-○	Fact Check List: Ensuring the content is factually accurate, especially for reports or case studies.
-○	Tail Generation: Extending the content logically to create depth in storytelling or analysis.
-○	Menu Actions: Presenting multiple action choices and guiding the AI to select one.
-○	Semantic Filter: Applying filters to control the tone, style, and accuracy of the content.
-2.	Choosing the Content Type: Decide on the type of content you want to create. This could be:
-○	Reports (e.g., industry analysis, sustainability reports, etc.)
-○	Case Studies (e.g., business solutions, technological innovations)
-○	Articles (e.g., opinion pieces, educational articles)
-○	Creative Content (e.g., comic book story, short stories, video scripts)
-3.	For example, you could choose a business report on market trends, a case study on a successful startup, or even a story-based prompt like creating a fictional world for a comic.
-4.	Creating the Prompts:
-○	Start with simple prompts to generate initial content.
-○	Gradually refine the prompts, moving toward more complex techniques like decision-making (asking the model to pick one of several options), tail generation (extending the narrative), and semantic filtering (adjusting style or tone).
-5.	Generating and Refining Outputs: Use the model to generate initial drafts, and then refine the outputs using iterative adjustments:
-○	For a report, prompt the model with basic data, then ask for a deeper analysis and insights.
-○	For creative content, refine the initial story idea with specific details on characters, settings, or actions.
-6.	Review and Evaluation: After generating content, evaluate the outputs for:
-○	Coherence: Is the generated content logical and structured?
-○	Creativity/Originality: Is the content engaging and fresh?
-○	Accuracy: Is the content factually accurate (for reports and case studies)?
-○	Tone and Style: Does the content match the intended tone (formal, creative, educational)?
-________________________________________
-Test Case Scenarios for Content Generation: (USE ANY 2)
-content generation scenarios:
-1.	Business Report on Market Trends
-2.	Case Study on Business Success
-3.	Article on Climate Change
-4.	Creative Writing - Sci-Fi Short Story
-5.	Educational Report on Renewable Energy
-6.	Product Launch Announcement
-7.	Travel Blog Post
-8.	Research Paper on Artificial Intelligence
-9.	Interview Transcript for Documentary
-10.	Sustainability Practices in Fashion
-11.	How to Build an E-commerce Website
-12.	Social Issue Awareness Campaign
-13.	Artificial Intelligence Impact on Healthcare
-## Instructions:
-1.	Select a Topic: Choose a topic (e.g., market trends, climate change, sci-fi story) that interests you.
-2.	Use Basic Prompts: Start by crafting simple, general prompts to generate initial content.
-3.	Refine Your Prompts: Gradually introduce more complexity by adding details, refining the structure, and using different prompt techniques like decision making or semantic filtering.
-4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
-5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
+To demonstrate how different prompting techniques such as **Query Decomposition, Decision Making, Answer Engineering, Fact Checking, Tail Generation, Menu Actions, and Semantic Filtering** can be used with ChatGPT to create clear, accurate, and well-structured content.
 
-## Deliverables:
-1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
-2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
-3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
-4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+## Procedure
 
-## Conclusion:
-By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+1. Understand different prompt patterns and their purpose.
+2. Select two content-generation scenarios.
+3. Create a simple basic prompt for each topic.
+4. Improve the prompt by adding more details and structure.
+5. Apply different prompt patterns such as:
+
+   * Query Decomposition
+   * Decision Making
+   * Answer Engineering
+   * Fact Check List
+   * Tail Generation
+   * Semantic Filtering
+6. Generate the content using ChatGPT.
+7. Compare the basic and refined outputs.
+8. Evaluate the final content based on clarity, accuracy, creativity, coherence, and style.
+
+---
+
+# Test Case 1: Educational Report on Renewable Energy
+
+### Basic Prompt
+
+**Prompt:**
+"Write a report about renewable energy."
+
+### Refined Prompt – Query Decomposition
+
+**Prompt:**
+"Create an educational report on renewable energy. Divide it into the following sections: introduction, types of renewable energy, advantages, disadvantages, applications, challenges, and conclusion."
+
+### Decision-Making Prompt
+
+**Prompt:**
+"Among solar, wind, hydro, and biomass energy, select the two most suitable renewable energy sources for India. Explain the reasons for your selection."
+
+### Answer Engineering Prompt
+
+**Prompt:**
+"Write the renewable energy report in simple English using clear headings, short paragraphs, and bullet points. Keep the content suitable for college students."
+
+### Fact Check List
+
+**Prompt:**
+"Review the renewable energy report and identify statements that may require factual verification. Avoid unsupported claims and clearly separate general information from specific statistics."
+
+### Final Prompt
+
+**Prompt:**
+"Write a well-structured educational report on renewable energy for college students. Include an introduction, major types, advantages, limitations, applications, challenges, and future scope. Use simple English, headings, and bullet points. Select the most relevant examples for India. Maintain a formal and informative tone and avoid unsupported statistics."
+
+### Expected Output
+
+The final output is a structured educational report explaining renewable energy sources, their benefits, limitations, applications, and future importance.
+
+---
+
+# Test Case 2: Artificial Intelligence Impact on Healthcare
+
+### Basic Prompt
+
+**Prompt:**
+"Write an article about the impact of Artificial Intelligence on healthcare."
+
+### Refined Prompt – Query Decomposition
+
+**Prompt:**
+"Write an article on AI in healthcare. Cover the following points: introduction, applications of AI, benefits, challenges, examples, ethical concerns, and future scope."
+
+### Decision-Making Prompt
+
+**Prompt:**
+"Choose the three most important applications of AI in healthcare from diagnosis, medical imaging, drug discovery, patient monitoring, and robotic surgery. Explain why you selected them."
+
+### Semantic Filtering Prompt
+
+**Prompt:**
+"Rewrite the article using a formal and educational tone. Remove unnecessary technical terms, exaggerated claims, and repetitive information. Make the content easy for college students to understand."
+
+### Tail Generation Prompt
+
+**Prompt:**
+"Continue the article by adding a section on the future of AI in healthcare. Explain how AI may support doctors, hospitals, patients, and medical research while keeping humans involved in important decisions."
+
+### Final Prompt
+
+**Prompt:**
+"Write a formal and educational article on the impact of Artificial Intelligence on healthcare. Include an introduction, three major applications, benefits, challenges, ethical concerns, and future scope. Use simple English and clear headings. Avoid exaggerated claims and unsupported statistics. Explain how AI supports healthcare professionals while human judgment remains important."
+
+### Expected Output
+
+The final output is a clear article explaining how AI is used in healthcare, its benefits and challenges, ethical concerns, and possible future developments.
+
+---
+
+## Comparison of Prompt Patterns
+
+| Prompt Pattern      | Purpose                                                  |
+| ------------------- | -------------------------------------------------------- |
+| Query Decomposition | Breaks a complex topic into smaller sections             |
+| Decision Making     | Helps AI select the most suitable options                |
+| Answer Engineering  | Controls the structure and format of the answer          |
+| Fact Check List     | Helps identify claims that need verification             |
+| Tail Generation     | Extends the content with additional relevant information |
+| Menu Actions        | Provides multiple choices for the AI to select from      |
+| Semantic Filter     | Controls tone, style, relevance, and unnecessary content |
+
+## Deliverables
+
+1. **First Draft:** Basic content generated using simple prompts.
+2. **Refined Content:** Improved content using multiple prompt patterns.
+3. **Multiple Versions:** Different outputs produced by changing the prompts.
+4. **Final Version:** Polished and structured content suitable for submission.
+
+## Result
+
+The experiment successfully demonstrated that different prompt patterns can improve the **structure, clarity, accuracy, relevance, and quality** of AI-generated content. Structured prompts produced more useful and well-organized results than simple prompts.
